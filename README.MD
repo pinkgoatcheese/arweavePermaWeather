@@ -2,7 +2,7 @@ Instuctions to use.
 
 The app is located at this URL
     
-https://discordapp.com/channels/357957786904166400/389895241169108992/692909568820379690
+https://mc22ncs3bvka.arweave.net/O6fzQRjCpTAO8KB9C0LZQYPQaSzEhKw0xT1QjjaA9Es
 
 If you only want to get the weather just input your zip code or city. You can also include your 2 digit country code like this New York,US
 
